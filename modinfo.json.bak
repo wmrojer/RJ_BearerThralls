@@ -1,0 +1,16 @@
+{
+	"name": "Better Bearer Thralls",
+	"description": "Tries to add more inventory slots to the Bearer Thralls depending on there tier.\nThey get a base of 10 slots plus 5 for each tier.\n\nThis is all based on the abandoned mod Age Of Barbarians by Sephumbra. He had made all his source available.",
+	"changeNote": "",
+	"author": "Robjer",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "1512154825",
+	"steamVisibility": 2,
+	"folderName": "RJ_BearerThralls",
+	"revisionNumber": 104551,
+	"snapshotId": 18892
+}
